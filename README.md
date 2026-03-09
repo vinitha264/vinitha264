@@ -63,7 +63,7 @@ https://inspiring-crisp-c28a01.netlify.app/
 # 🌐 Connect With Me
 
 * 💻 GitHub: https://github.com/vinitha264
-* 🔗 LinkedIn: linkedin.com/in/vinitha-bairagoni-00b399357
+* 🔗 LinkedIn: https://www.linkedin.com/in/vinitha-bairagoni-00b399357
 
 ---
 
