@@ -36,15 +36,6 @@ Postman,
 VS Code
 
 # 📌 Featured Projects
-TO-DO-LIST-PROJECT
-
-
-**Tech Stack:**
-
-🔗 Repository
-
-
----
 
 ### 🏙 CitiSolve – Civic Issue Reporting Platform
 
@@ -60,7 +51,7 @@ https://citisolve-fullstack-frontend.onrender.com/
 
 ---
 
-### ✅ Task Manager Web App
+### ✅ TO-DO-LIST-PROJECT
 
 A responsive **To-Do List application** for managing daily tasks.
 
