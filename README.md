@@ -13,7 +13,7 @@
 * 🌱 I’m currently learning **Advanced MERN Stack Development**
 * 👯 I’m looking to collaborate on **Open Source MERN Stack Projects**
 * 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB**
-* ⚡ Fun fact: I love turning ideas into **interactive web applications**
+* ⚡ Fun fact: I love turning ideas into **Interactive web applications**
 
 ---
 
@@ -57,15 +57,6 @@ A responsive **To-Do List application** for managing daily tasks.
 
 🔗 Live Website
 https://inspiring-crisp-c28a01.netlify.app/
-
----
-
-# 📊 GitHub Stats
-![Vinitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitha264&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitha264&layout=compact&theme=tokyonight)
----
-
-# 🔥 GitHub Streak
 
 ---
 
