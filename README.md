@@ -20,31 +20,29 @@
 # 🚀 Tech Stack
 
 ### 🌐 Frontend
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 React js 
 ### ⚙ Backend
-Node js
-Express js
+Node js,
+Express js,
 
 ### 🗄 Database
 mongodb
 ### 🛠 Tools
-GitHub
-Postman
+GitHub,
+Postman,
 VS Code
 
 # 📌 Featured Projects
+TO-DO-LIST-PROJECT
 
-### 🔐 Authentication Login System
 
-Full-stack authentication system using **Google OAuth 2.0**
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+**Tech Stack:**
 
 🔗 Repository
-https://github.com/vinitha264/authentication-fullstack
+
 
 ---
 
