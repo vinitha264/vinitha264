@@ -61,7 +61,8 @@ https://inspiring-crisp-c28a01.netlify.app/
 ---
 
 # 📊 GitHub Stats
-
+![Vinitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitha264&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitha264&layout=compact&theme=tokyonight)
 ---
 
 # 🔥 GitHub Streak
@@ -71,7 +72,7 @@ https://inspiring-crisp-c28a01.netlify.app/
 # 🌐 Connect With Me
 
 * 💻 GitHub: https://github.com/vinitha264
-* 🔗 LinkedIn: Add your LinkedIn profile here
+* 🔗 LinkedIn: linkedin.com/in/vinitha-bairagoni-00b399357
 
 ---
 
